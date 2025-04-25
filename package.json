@@ -159,11 +159,6 @@
     "android": {
       "javaPackageName": "com.purecppturbomodulelibrary"
     },
-    "ios": {
-      "modulesProvider": {
-        "PureCppTurboModuleLibrary": "PureCppTurboModuleLibraryProvider"
-      }
-    },
     "includesGeneratedCode": true
   },
   "create-react-native-library": {
