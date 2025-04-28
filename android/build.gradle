@@ -121,8 +121,8 @@ dependencies {
   implementation "org.jetbrains.kotlin:kotlin-stdlib:$kotlin_version"
 }
 
-//react {
-//  jsRootDir = file("../src/")
-//  libraryName = "PureCppTurboModuleLibrary"
-//  codegenJavaPackageName = "com.purecppturbomodulelibrary"
-//}
+react {
+ jsRootDir = file("../src/")
+ libraryName = "PureCppTurboModuleLibrary"
+ codegenJavaPackageName = "com.purecppturbomodulelibrary"
+}
