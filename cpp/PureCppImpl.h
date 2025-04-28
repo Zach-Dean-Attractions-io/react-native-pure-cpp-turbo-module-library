@@ -1,6 +1,6 @@
 #pragma once
 
-#include <react/renderer/components/RNPureCppTurboModuleLibrarySpec/RNPureCppTurboModuleLibrarySpecJSI.h>
+#include <RNPureCppTurboModuleLibrarySpecJSI.h>
 
 #include <memory>
 #include <string>
